@@ -24,6 +24,9 @@ Repositorio destinado a la entrega de laboratorios, talleres y tareas de la asig
 | **Lab 05** | semana07/lab01_tercio02.ipynb | [Lab de Pilas y Colas]] | 10/09 
 
 | **Lab 06** | semana08/lab02_tercio02.ipynb | [Lab de Arboles BST y AVL]] | 17/09 
+
+| **Lab 07** | semana09/lab03_tercio02.ipynb | [Lab de Algoritmos de Busqueda BFS y DFS]] | 24/09 
+
 -------------------------------------------------------
 ## 🛠️ Tecnologías y Entorno
 * **Lenguaje:** Python 
