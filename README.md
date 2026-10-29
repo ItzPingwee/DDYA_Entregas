@@ -30,6 +30,7 @@ Repositorio destinado a la entrega de laboratorios, talleres y tareas de la asig
 | **PARCIAL TERCIO 2** | parcial_tercio2.ipynb | [Parcial de Tercio]] | 15/10 
 
 | **Lab 08** | semana11/lab01_tercio3.ipynb | [Lab de Colas de Prioiridad y Max-Heap]] | 24/09 
+
 -------------------------------------------------------
 ## 🛠️ Tecnologías y Entorno
 * **Lenguaje:** Python 
