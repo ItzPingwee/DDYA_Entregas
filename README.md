@@ -27,6 +27,9 @@ Repositorio destinado a la entrega de laboratorios, talleres y tareas de la asig
 
 | **Lab 07** | semana09/lab03_tercio02.ipynb | [Lab de Algoritmos de Busqueda BFS y DFS]] | 24/09 
 
+| **PARCIAL TERCIO 2** | parcial_tercio2.ipynb | [Parcial de Tercio]] | 15/10 
+
+| **Lab 08** | semana11/lab01_tercio3.ipynb | [Lab de Colas de Prioiridad y Max-Heap]] | 24/09 
 -------------------------------------------------------
 ## 🛠️ Tecnologías y Entorno
 * **Lenguaje:** Python 
